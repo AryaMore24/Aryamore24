@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# 💫 About Me:
+#  About Me:
 - 🔭 I'm currently working on Nivora, an AI-powered inventory intelligence platform (FastAPI, React, PostgreSQL) with Random Forest demand forecasting and a GPT-based assistant for restocking insights<br>- 👯 I'm looking to collaborate on RAG and LLM projects, especially hybrid retrieval (BM25 + dense vectors) and apps that run on both cloud and local models<br>- 🤝 I'm looking for help with scaling and deploying AI apps, plus making forecasting and retrieval pipelines production-ready<br>- 🌱 I'm currently learning advanced LLM application design, agentic workflows, and Docker/deployment<br>- 💬 Ask me about RAG pipelines, LangChain, Qdrant, Ollama and Microsoft Power Platform<br>
 
 
